@@ -6,4 +6,3 @@ import App from './App'; // Component : HTML을 반환하는 함수
 ReactDOM.render(
     <App />, document.getElementById('root')
 );
-
